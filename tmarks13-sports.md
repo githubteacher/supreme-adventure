@@ -4,4 +4,4 @@
 - NFL
 
 ## Things to do
-- Eat
+- Eat italian sausage
