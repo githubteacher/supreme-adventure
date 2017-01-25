@@ -5,3 +5,4 @@
 
 ## Things to do
 - Drink at a micro brew
+- Hike
