@@ -2,7 +2,7 @@
 
 ## :computer: Signing into your (physical) desktop :computer: 
 Please login to the desktop computer with training ID's: 
-- `username-trprod__` _<- enter the # listed on sticker on top of monitor, 18-34_
+- Username: `trprod##` _<- enter the # listed on sticker on top of monitor, 18-34_
 - Password: `Jan1snow`
 
 ## :keyboard: Signing into the VM :keyboard:
