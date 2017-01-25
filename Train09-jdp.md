@@ -6,3 +6,4 @@
 - No snow
 - Housing is cheaper
 - Fishing is better
+- New places to go
