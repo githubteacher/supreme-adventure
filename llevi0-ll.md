@@ -5,3 +5,6 @@
 
 ## Things to do
 - Sports
+## transportation
+- no public transport
+- driving car
