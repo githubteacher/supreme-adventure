@@ -3,5 +3,7 @@
 ## Places to eat
 - BBQ
 
-##Things to do
+## Things to do
 - Sports
+
+## Tourist favorites
